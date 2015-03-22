@@ -1,0 +1,11 @@
+% q d a alpha
+% Length constants
+LENGTH_ONE = 0.352;
+LENGTH_TWO = 0.070;
+LENGTH_THREE = 0.360;
+LENGTH_FOUR = 0.445;
+
+MASS_ONE = 50;
+MASS_TWO = 30;
+MASS_THREE = 35;
+
