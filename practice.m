@@ -5,7 +5,7 @@ RADIUS_ONE = 0.070;
 LINK_LENGTH_TWO = 0.360;
 LINK_LENGTH_THREE = 0.445;
 
-% Join masses
+% Join masses.
 MASS_ONE = 50;
 MASS_TWO = 30;
 MASS_THREE = 35;
